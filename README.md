@@ -1,12 +1,12 @@
-# ** Blinkit Sales Dashboard Analysis | Power BI**
+# **Blinkit Sales Dashboard Analysis | Power BI**
 
-## 📊 ** Project Overview**
+## 📊 **Project Overview**
 
 This project focuses on analyzing Blinkit's sales performance using Power BI. The dashboard provides insights into product sales, outlet performance, item fat content, outlet location, and customer ratings.
 
 The main objective is to understand sales trends, identify high-performing product categories, and evaluate outlet performance through interactive dashboard visualizations.
 
-## 🎯 ** Project Objectives**
+## 🎯 **Project Objectives**
 
 - Analyze overall sales performance.
 
@@ -22,11 +22,11 @@ The main objective is to understand sales trends, identify high-performing produ
 
 - Generate meaningful business insights from the dashboard.
 
-## 📁 ** Dashboard Pages**
+## 📁 **Dashboard Pages**
 
 The Power BI dashboard consists of three pages:
 
-### 1. ** Overview Dashboard**
+### 1. **Overview Dashboard**
 
 Provides an overall summary of Blinkit's sales performance.
 
@@ -50,7 +50,7 @@ Provides an overall summary of Blinkit's sales performance.
 
 - Average Sales by Item Fat Content
 
-### 2. ** Product Analysis**
+### 2. **Product Analysis**
 
 Focuses on product-level sales performance.
 
@@ -64,7 +64,7 @@ Focuses on product-level sales performance.
 
 - Average Sales comparison across outlet location tiers
 
-### 3. ** Outlet Analysis**
+### 3. **Outlet Analysis**
 
 Analyzes sales performance based on outlet characteristics.
 
@@ -76,7 +76,7 @@ Analyzes sales performance based on outlet characteristics.
 
 - Average Rating by Outlet Type
 
-## 📌 ** Key Insights**
+## 📌 **Key Insights**
 
 1. Total Sales: The dashboard displays total sales of approximately 1.20M.
 
@@ -92,7 +92,7 @@ Analyzes sales performance based on outlet characteristics.
 
 7. Outlet Location: Average sales are nearly consistent across Tier 1, Tier 2, and Tier 3 locations.
 
-## 🛠️ ** Tools & Technologies**
+## 🛠️ **Tools & Technologies**
 
 - Power BI Desktop
 
@@ -102,7 +102,7 @@ Analyzes sales performance based on outlet characteristics.
 
 - Microsoft Excel (Data Source / Data Preparation)
 
-## 📈 ** Dashboard Features**
+## 📈 **Dashboard Features**
 
 - Interactive slicers and filters
 
@@ -114,7 +114,7 @@ Analyzes sales performance based on outlet characteristics.
 
 - Business insights and performance evaluation
 
-## 💡 ** Business Recommendations**
+## 💡 **Business Recommendations**
 
 - Focus on understanding the sales contribution of Low Fat products.
 
@@ -126,7 +126,7 @@ Analyzes sales performance based on outlet characteristics.
 
 - Monitor product ratings and sales performance to identify improvement opportunities.
 
-## 📂 ** Project Files**
+## 📂 **Project Files**
 
 | File | Purpose | 
 |----------|----------|
@@ -139,27 +139,26 @@ Analyzes sales performance based on outlet characteristics.
 
 ## 📷 **Dashboard Preview**
 
-
 ### 1. Dashboard Overview
-![Dashboard Overview](images/dashboard-overview.png)
+![Overview](images/Screenshot 2026-10-22 200149.png)
 
 ### 2. KPI Analysis
-![KPI Analysis](images/kpi-analysis.png)
+![Product Analysis](images/Screenshot 2026-10-22 200156.png)
 
 ### 3. Sales Person Performance
-![Performance Table](images/performance-table.png)
+![Outlet Performance](images/Screenshot 2026-10-22 200206.png)
 
 
-## 🏁 ** Conclusion**
+## 🏁 **Conclusion**
 
 This Blinkit Sales Dashboard project demonstrates how Power BI can be used to analyze sales performance and generate meaningful business insights.
 
 The dashboard helps understand product-level sales, outlet performance, item fat content contribution, and outlet location patterns. These insights can support better business decisions and performance monitoring.
 
-** Project**: Blinkit Sales Dashboard Analysis
-** Tool**: Microsoft Power BI
-** Category**: Data Analytics & Business Intelligence
+**Project**: Blinkit Sales Dashboard Analysis
+**Tool**: Microsoft Power BI
+**Category**: Data Analytics & Business Intelligence
 
-## 👩‍💻 ** Author**
+## 👩‍💻 **Author**
 
 [Anjana P C]
