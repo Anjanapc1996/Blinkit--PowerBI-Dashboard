@@ -140,13 +140,13 @@ Analyzes sales performance based on outlet characteristics.
 ## 📷 **Dashboard Preview**
 
 ### 1. Dashboard Overview
-![Overview](images/Screenshot 2026-10-22 200149.png)
+![Overview](images/Overview.png)
 
-### 2. KPI Analysis
-![Product Analysis](images/Screenshot 2026-10-22 200156.png)
+### 2. Product Analysis
+![Product Analysis](images/ProductAnalysis.png)
 
-### 3. Sales Person Performance
-![Outlet Performance](images/Screenshot 2026-10-22 200206.png)
+### 3. Outlet Performance
+![Product Analysis](images/OutletPerformance.png)
 
 
 ## 🏁 **Conclusion**
